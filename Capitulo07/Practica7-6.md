@@ -1,4 +1,4 @@
-# 6 Diseño de Controles de Seguridad y Cumplimiento
+# 7.6 Diseño de Controles de Seguridad y Cumplimiento
 
 ## Metadatos
 

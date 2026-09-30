@@ -1,4 +1,4 @@
-# 6 Administración de Respaldos con Barman
+# 2.6 Administración de Respaldos con Barman
 
 ## Metadatos
 
