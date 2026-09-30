@@ -1,4 +1,4 @@
-`<img src="images/neteclogo (2).png" alt="logo" width="300"/>`{=html}
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
 
 # PostgreSQL Avanzado
 
